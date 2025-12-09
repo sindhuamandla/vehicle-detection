@@ -1,7 +1,6 @@
 NAME: SINDHU AMANDLA 
-COMPANY: CODETECH IT SOLUTIONS 
+COMP: codetech it sol 
 DOMAIN: "ARTIFICAL INTELLIGENCE" 
-
 
 COMPUTER VISION TASK
 Computer Vision is a subfield of AI that enables machines to interpret
